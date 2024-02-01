@@ -4,7 +4,7 @@ This is a list of all of my zets in order of most recently modified first. This 
 
 Search feature coming very soon. I'll probably just use Alpine JS and search on the page content.
 
- - Thu 01 Feb 2024 17:23:02 GMT [Setting up github CLI tool (20230422192311)](../5/) 
+ - Thu 01 Feb 2024 17:28:43 GMT [Setting up github CLI tool](../5/) 
  - Thu 01 Feb 2024 17:18:05 GMT [Give your bash scripts tab completion](../4/) (#rwxrob #linux #bash)
  - Thu 01 Feb 2024 17:08:39 GMT [Bash script development with on-save live changes using entr](../3/) 
  - Thu 01 Feb 2024 17:04:02 GMT [Concatenate strings in bash](../2/) 
