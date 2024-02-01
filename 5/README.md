@@ -1,4 +1,4 @@
-# Setting up github CLI tool (20230422192311)
+# Setting up github CLI tool
 
 Thursday, 01 February 2024. 17:21:27GMT
 
