@@ -60,3 +60,5 @@ completion -C myscript myscript
 
 ## Extra
 - Big thanks, as always, to rwxrob for this info.
+
+#rwxrob #linux #bash
