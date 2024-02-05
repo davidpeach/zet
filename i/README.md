@@ -4,12 +4,14 @@ This is a list of all of my zets in order of most recently modified first. This 
 
 Search feature coming very soon. I'll probably just use Alpine JS and search on the page content.
 
- - Sun 04 Feb 2024 22:55:58 GMT [I'm going back to Vim](../6/) 
- - Fri 02 Feb 2024 01:09:30 GMT [](../html/4/) 
- - Fri 02 Feb 2024 01:09:29 GMT [](../html/1/) 
- - Fri 02 Feb 2024 01:09:29 GMT [](../html/5/) 
- - Fri 02 Feb 2024 01:09:28 GMT [](../html/3/) 
- - Fri 02 Feb 2024 01:09:27 GMT [](../html/2/) 
+ - Mon 05 Feb 2024 10:20:45 GMT [Grep files and pass to vim](../7/) 
+ - Sun 04 Feb 2024 23:07:27 GMT [](../html/4/) 
+ - Sun 04 Feb 2024 23:07:27 GMT [](../html/1/) 
+ - Sun 04 Feb 2024 23:07:26 GMT [](../html/5/) 
+ - Sun 04 Feb 2024 23:07:26 GMT [](../html/3/) 
+ - Sun 04 Feb 2024 23:07:25 GMT [](../html/2/) 
+ - Sun 04 Feb 2024 23:07:25 GMT [](../html/6/) 
+ - Sun 04 Feb 2024 23:06:33 GMT [I'm going back to Vim](../6/) (#linux #vim #neovim #unixfilters #workflow)
  - Thu 01 Feb 2024 23:52:29 GMT [Bash script development with on-save live changes using entr](../3/) 
  - Thu 01 Feb 2024 17:28:43 GMT [Setting up github CLI tool](../5/) 
  - Thu 01 Feb 2024 17:18:05 GMT [Give your bash scripts tab completion](../4/) (#rwxrob #linux #bash)
