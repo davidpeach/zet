@@ -4,14 +4,7 @@ This is a list of all of my zets in order of most recently modified first. This 
 
 Search feature coming very soon. I'll probably just use Alpine JS and search on the page content.
 
- - Mon 05 Feb 2024 14:02:10 GMT [Build a ubiquitous dev environment](../8/) 
- - Mon 05 Feb 2024 10:21:38 GMT [](../html/4/) 
- - Mon 05 Feb 2024 10:21:38 GMT [](../html/1/) 
- - Mon 05 Feb 2024 10:21:37 GMT [](../html/5/) 
- - Mon 05 Feb 2024 10:21:37 GMT [](../html/7/) 
- - Mon 05 Feb 2024 10:21:36 GMT [](../html/3/) 
- - Mon 05 Feb 2024 10:21:35 GMT [](../html/2/) 
- - Mon 05 Feb 2024 10:21:35 GMT [](../html/6/) 
+ - Mon 05 Feb 2024 14:05:19 GMT [Build a ubiquitous dev environment](../8/) (#linux #workflow #development)
  - Mon 05 Feb 2024 10:20:53 GMT [Grep files and pass to vim](../7/) 
  - Sun 04 Feb 2024 23:06:33 GMT [I'm going back to Vim](../6/) (#linux #vim #neovim #unixfilters #workflow)
  - Thu 01 Feb 2024 23:52:29 GMT [Bash script development with on-save live changes using entr](../3/) 
