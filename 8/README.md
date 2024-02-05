@@ -1,4 +1,4 @@
-# Build a ubiquitous dev environment
+# Building a ubiquitous dev environment
 
 Monday, 05 February 2024. 14:01:52GMT
 
