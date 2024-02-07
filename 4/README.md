@@ -4,7 +4,6 @@ Thursday, 01 February 2024. 17:09:24GMT
 
 ## Example Usage
 ```bash
-
 #!/usr/bin/bash
 
 declare -a commands=(functionone functiontwo mythirdfunction)
@@ -14,7 +13,6 @@ if [[ -n $COMP_LINE ]]; then
     done
     exit
 fi
-
 ```
 
 ## Notes
@@ -51,9 +49,7 @@ Explaining the reasoning behind this approach and walkthrough the lines of the c
 
 In your `.bashrc` file, you'll need to add the following: 
 ```bash
-
 completion -C myscript myscript
-
 ```
 - This tells bash to look in the `myscript` script for the `myscript` completions.
 - You could put completions in a separate file, but this way keeps everything self-contained and easily portable.
