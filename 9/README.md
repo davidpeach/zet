@@ -26,3 +26,4 @@ I will link my old stats and new stats soon to see a comparison.
   - **mattn/vim-lsp-settings** ( Help setup of LSP settings )
   - **iamcco/markdown-preview.nvim** ( Live previewing markdown files )
 
+#vim #workflow #neovim
