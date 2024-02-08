@@ -2,8 +2,8 @@
 
 Thursday, 01 February 2024. 17:04:45GMT
 
-- entr is a program that can be installed that can we told to watch a set of files, and run a given command when any of those files changes.
-- can't believe I've never heard of this program until a few days ago.
+- entr is a program that can be told to watch a set of files, and run a given command when any of those files changes.
+- I can't believe I've never heard of this program until a few days ago.
 
 ## Basic usage
 
