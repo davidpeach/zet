@@ -4,6 +4,7 @@ This is a list of all of my zets in order of most recently modified first. This 
 
 Search feature coming very soon. I'll probably just use Alpine JS and search on the page content.
 
+ - Thu 08 Feb 2024 13:06:39 GMT [My vim is becoming more minimal by the day](../9/) 
  - Wed 07 Feb 2024 23:55:12 GMT [](../html/4/) 
  - Wed 07 Feb 2024 23:55:12 GMT [](../html/1/) 
  - Wed 07 Feb 2024 23:55:11 GMT [](../html/5/) 
