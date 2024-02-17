@@ -17,8 +17,31 @@ p {
     line-height: 1.75;
 }
 
+ul {
+    padding-left: 0;
+}
+
 li {
-    margin-bottom: .5em;
+    margin-bottom: 1em;
+    list-style-type: none;
+
+    > a {
+        text-decoration: none;
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+
+    time {
+        font-size: .8em;
+        font-style: italic;
+        display: block;
+        color: #666;
+    }
+}
+
+.tags-list {
+    display: none;
 }
 
 pre.sourceCode {
@@ -30,6 +53,22 @@ pre.sourceCode {
 @media(min-width: 50rem ) {
     body {
         font-size: 1.6em;
+    }
+    li {
+        a {
+            &::before {
+                content: "\2192";
+                margin-right: .5em;
+                color: green;
+                vertical-align: text-top;
+            }
+        }
+        time {
+            display: inline-block;
+            font-size: .6em;
+            margin-right: 1em;
+            vertical-align: middle;
+        }
     }
 }
 @media(min-width: 80rem ) {
