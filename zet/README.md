@@ -4,16 +4,7 @@ This is a list of all of my zets in order of most recently modified first. This 
 
 Search feature coming very soon. I'll probably just use Alpine JS and search on the page content.
 
- - <time>Wed 21 Feb 2024 12:29:01 GMT</time> [Get size of a directory in linux cli](../10/) <span class='tags-list'></span>
- - <time>Wed 14 Feb 2024 09:50:17 GMT</time> [](../html/4/) <span class='tags-list'></span>
- - <time>Wed 14 Feb 2024 09:50:16 GMT</time> [](../html/1/) <span class='tags-list'></span>
- - <time>Wed 14 Feb 2024 09:50:15 GMT</time> [](../html/5/) <span class='tags-list'></span>
- - <time>Wed 14 Feb 2024 09:50:14 GMT</time> [](../html/8/) <span class='tags-list'></span>
- - <time>Wed 14 Feb 2024 09:50:14 GMT</time> [](../html/7/) <span class='tags-list'></span>
- - <time>Wed 14 Feb 2024 09:50:13 GMT</time> [](../html/3/) <span class='tags-list'></span>
- - <time>Wed 14 Feb 2024 09:50:13 GMT</time> [](../html/2/) <span class='tags-list'></span>
- - <time>Wed 14 Feb 2024 09:50:12 GMT</time> [](../html/6/) <span class='tags-list'></span>
- - <time>Wed 14 Feb 2024 09:50:12 GMT</time> [](../html/9/) <span class='tags-list'></span>
+ - <time>Wed 21 Feb 2024 12:33:57 GMT</time> [Get size of a directory in linux cli](../10/) <span class='tags-list'></span>
  - <time>Thu 08 Feb 2024 13:06:39 GMT</time> [My vim is becoming more minimal by the day](../9/) <span class='tags-list'>(#vim #workflow #neovim)</span>
  - <time>Mon 05 Feb 2024 14:06:49 GMT</time> [Building a ubiquitous dev environment](../8/) <span class='tags-list'>(#linux #workflow #development)</span>
  - <time>Mon 05 Feb 2024 10:20:53 GMT</time> [Grep files and pass to vim](../7/) <span class='tags-list'></span>
