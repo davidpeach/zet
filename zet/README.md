@@ -4,6 +4,7 @@ This is a list of all of my zets in order of most recently modified first. This 
 
 Search feature coming very soon. I'll probably just use Alpine JS and search on the page content.
 
+ - <time>Fri 01 Mar 2024 16:49:05 GMT</time> [Planning my Kubernetes Architecture](../11/) <span class='tags-list'></span>
  - <time>Wed 21 Feb 2024 12:33:57 GMT</time> [Get size of a directory in linux cli](../10/) <span class='tags-list'></span>
  - <time>Thu 08 Feb 2024 13:06:39 GMT</time> [My vim is becoming more minimal by the day](../9/) <span class='tags-list'>(#vim #workflow #neovim)</span>
  - <time>Mon 05 Feb 2024 14:06:49 GMT</time> [Building a ubiquitous dev environment](../8/) <span class='tags-list'>(#linux #workflow #development)</span>

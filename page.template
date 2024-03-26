@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
 <head>
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
@@ -7,21 +8,20 @@
   <meta name="description" content="$title$" />
   <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$</title>
   <link rel="stylesheet" href="/style.css" />
-$for(header-includes)$
+  $for(header-includes)$
   $header-includes$
-$endfor$
+  $endfor$
 </head>
+
 <body>
-$for(include-before)$
-$include-before$
-$endfor$
-<nav>
-  <a href="/">home</a>
-  <a href="/zet">zet index</a>
-</nav>
-$body$
-$for(include-after)$
-$include-after$
-$endfor$
+  <header>
+    <h1>David Peach</h1>
+    <nav>
+      <a href="/">home</a>
+      <a href="/zet/">zet index</a>
+    </nav>
+  </header>
+  $body$
 </body>
+
 </html>
