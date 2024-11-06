@@ -4,6 +4,7 @@ This is a list of all of my zets in order of most recently modified first. This 
 
 Search feature coming very soon. I'll probably just use Alpine JS and search on the page content.
 
+ - <time>Tue 05 Nov 2024 16:54:58 GMT</time> [wut](../13/) <span class='tags-list'></span>
  - <time>Tue 05 Nov 2024 12:07:58 GMT</time> [Setting up s3cmd to backup s3-compliant bucket data](../12/) <span class='tags-list'></span>
  - <time>Mon 04 Nov 2024 07:38:05 GMT</time> [Planning my Kubernetes Architecture](../11/) <span class='tags-list'></span>
  - <time>Mon 04 Nov 2024 07:38:05 GMT</time> [This is my zettelkasten](../1/) <span class='tags-list'>(#draft #zettelkasten)</span>

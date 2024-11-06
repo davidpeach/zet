@@ -21,7 +21,7 @@ From the `xargs` man page:
     Reopen stdin as /dev/tty in the child process  before  executing  the
     command.   This is useful if you want xargs to run an interactive application.
 
-One `vim` is opened with the files passed as arguments, vim has those files in its `argslist`.
+Once `vim` is opened with the files passed as arguments, vim has those files in its `argslist`.
 
 I can then use `:argdo` to run a command over every file in the arglist.
 
