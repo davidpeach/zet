@@ -15,3 +15,9 @@ services:
         cpus: 0.4
         # other compose key value pairs
 ```
+
+You can also update the cpus value on the fly with an already-running container:
+
+```bash
+docker update --cpus 0.4 my-container-name
+```
