@@ -4,8 +4,9 @@ This is a list of all of my zets in order of most recently modified first. This 
 
 Search feature coming very soon. I'll probably just use Alpine JS and search on the page content.
 
-<ol> - <li x-show='show_item($el)'><time>Tue 12 Nov 2024 15:39:19 GMT</time> [Fix resolve.conf when setting up systemd networking on Arch Linux](../14/) <span class='tags-list'></span></li>
- - <li x-show='show_item($el)'><time>Tue 12 Nov 2024 15:22:44 GMT</time> [Limiting host cpu usage from docker compose](../13/) <span class='tags-list'></span></li>
+<ol> - <li x-show='show_item($el)'><time>Tue 12 Nov 2024 15:56:55 GMT</time> [Fix the author details of all commits after a given commit hash](../15/) <span class='tags-list'></span></li>
+ - <li x-show='show_item($el)'><time>Tue 12 Nov 2024 15:55:14 GMT</time> [Fix resolve.conf when setting up systemd networking on Arch Linux](../14/) <span class='tags-list'></span></li>
+ - <li x-show='show_item($el)'><time>Tue 12 Nov 2024 15:55:14 GMT</time> [Limiting host cpu usage from docker compose](../13/) <span class='tags-list'></span></li>
  - <li x-show='show_item($el)'><time>Tue 12 Nov 2024 15:22:13 GMT</time> [My vim is becoming more minimal by the day](../9/) <span class='tags-list'>(#vim #workflow #neovim)</span></li>
  - <li x-show='show_item($el)'><time>Tue 12 Nov 2024 15:22:13 GMT</time> [Building a ubiquitous dev environment](../8/) <span class='tags-list'>(#linux #workflow #development)</span></li>
  - <li x-show='show_item($el)'><time>Tue 12 Nov 2024 15:22:13 GMT</time> [Grep files and pass to vim](../7/) <span class='tags-list'></span></li>
