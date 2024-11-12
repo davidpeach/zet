@@ -8,6 +8,7 @@
   <meta name="description" content="$title$" />
   <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$</title>
   <link rel="stylesheet" href="/style.css" />
+  <script type="text/javascript" src="/alpine.js"></script>
   
   $for(header-includes)$
   $header-includes$
@@ -16,13 +17,19 @@
 
 <body>
 
-    <div class="wrap">
+    <div class="wrap" x-data="{
+          search: '',
+          show_item(el){
+              return this.search === '' || el.textContent.toLowerCase().includes(this.search);
+           }
+       }">
   <header>
     <h1>David Peach</h1>
     <nav>
       <a href="/">home</a>
       <a href="/zet/">zet index</a>
     </nav>
+        <input type="search" x-model="search" />
 
   </header>
   $body$
