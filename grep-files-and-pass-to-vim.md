@@ -3,10 +3,14 @@
 Monday, 05 February 2024. 10:11:59GMT
 
 ```bash
-grep -rl todo ./app | xargs -o vim --
+# All files in current directory
+grep -rl todo . | xargs -o vim --
+
+# Ignore files in the `.git` directory
+grep --exclude-dir=.git -rl todo . | xargs -o vim --
 ```
 
-This example will recursively (`-r`) search the `./app` directory for the word "todo".
+This example will recursively (`-r`) search the current `.` directory for the word "todo".
 
 The `-l` flag tells grep to just list out the file names that contain a match.
 
