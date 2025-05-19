@@ -13,3 +13,5 @@ My solution was to add the `-dynamic` flag to the build command:
 ```bash
 ghc -dynamic --make programname
 ```
+
+Update: i'm now using GHCup for haskell installation and building just works for me. Will keep this zet for posterity.
